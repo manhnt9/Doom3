@@ -1,4 +1,7 @@
 ### Doom 3 source code for Visual Studio 2013 Community
+Vietnamese C++ Game Developer Group
+
+[Discussion thread on Facebook](https://www.facebook.com/groups/vncppgamedev/permalink/680857718719709/)
 
 Changes:
 - Fix project settings for Visual Studio 2013 Community
@@ -15,7 +18,6 @@ Instructions:
 - Open Properties of DoomDLL project, see the tab Debugging and modify the Command field and fs_basepath argument
 
 Original README.txt:
-
 Doom 3 GPL source release
 =========================
 
