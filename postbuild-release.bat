@@ -1,0 +1,1 @@
+copy "..\build\Win32\Release\DoomDLL.exe" "..\..\Doom 3\"
