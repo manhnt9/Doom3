@@ -1,7 +1,8 @@
-### Doom 3 source code for Visual Studio 2013 Community
-GameDev Spot Group
+Doom 3 source code for Visual Studio 2013 Community
+===================================================
+## GameDev Spot Group
 
-[Discussion thread on Facebook](https://www.facebook.com/groups/gdspot/permalink/680857718719709/)
+[Discussion thread](https://www.facebook.com/groups/gdspot/permalink/680857718719709/)
 
 Changes:
 - Fix project settings for Visual Studio 2013 Community
