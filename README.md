@@ -17,7 +17,6 @@ Instructions:
 - Open doom.sln and build (Multi-processor Compilation is enabled)
 - Open Properties of DoomDLL project, see the tab Debugging and modify the Command field and fs_basepath argument
 
-Original README.txt:
 Doom 3 GPL source release
 =========================
 
