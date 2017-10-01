@@ -1,7 +1,7 @@
 ### Doom 3 source code for Visual Studio 2013 Community
-Vietnamese C++ Game Developer Group
+GameDev Spot Group
 
-[Discussion thread on Facebook](https://www.facebook.com/groups/vncppgamedev/permalink/680857718719709/)
+[Discussion thread on Facebook](https://www.facebook.com/groups/gdspot/permalink/680857718719709/)
 
 Changes:
 - Fix project settings for Visual Studio 2013 Community
@@ -75,7 +75,7 @@ Back End Rendering of Stencil Shadows:
 --------------------------------------
 
 The Doom 3 GPL source code release does not include functionality enabling rendering
-of stencil shadows via the ìdepth failî method, a functionality commonly known as 
+of stencil shadows via the ‚Äúdepth fail‚Äù method, a functionality commonly known as 
 "Carmack's Reverse".
 
 MayaImport:
@@ -419,7 +419,7 @@ lines	file(s)
 225		neo/sys/linux/setup/brandelf.c
 
 /*-
- * Copyright (c) 1996 S¯ren Schmidt
+ * Copyright (c) 1996 S√∏ren Schmidt
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -451,5 +451,5 @@ lines	file(s)
 makeself - Make self-extractable archives on Unix
 --------------------------------------------------------------------------- 
 neo/sys/linux/setup/makeself/*, neo/sys/linux/setup/makeself/README
-Copyright (c) StÈphane Peter
+Copyright (c) St√©phane Peter
 Licensing: GPL v2
